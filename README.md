@@ -21,3 +21,8 @@ This project analyzes web traffic data to understand how likely users are to cli
 ## 💡 Recommendations
 - Add a floating chat box to provide easier access.
 - Update page content to address common questions more clearly.
+
+## 📁 Files Included
+
+- `/data/website_traffic_data.xlsx` — The raw dataset used for the analysis
+- `/presentation/website_analysis_presentation.pptx` — Summary of findings with visualizations
